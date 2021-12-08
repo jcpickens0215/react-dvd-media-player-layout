@@ -31,22 +31,13 @@ body {
   height: 100vh;
 }
 
-#template {
-  position: absolute;
-  width:1280px;
-  height:959px;
-}
-
 #mainPanel {
   display: flex;
   flex-direction: column;
   margin: 0;
-  position: relative;
   z-index: 1;
   height: 70%;
   width: 80%;
-  top: -86%;
-  left: 10%;
 }
 
 .panel {
@@ -99,6 +90,7 @@ body {
 }
 
 .path {
+  height: 100%;
   margin-top: 0;
   padding-left: 0.4rem;
 }
@@ -140,10 +132,6 @@ body {
   align-items: center;
 }
 
-#footer p {
-  padding-right: 0.4rem;
-}
-
 .textBorder {
     text-shadow:-2px  0px 0 #000,
                  2px  0px 0 #000,
@@ -154,5 +142,5 @@ body {
 p {
   margin-top: 0;
   margin-bottom: 0;
-  padding: 0.2rem;
+  padding: 0.4rem;
 }

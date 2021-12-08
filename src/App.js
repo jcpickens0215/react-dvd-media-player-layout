@@ -8,8 +8,6 @@ function App() {
   return (
     <>
       <div id="container">
-        <div id="template">
-          <img id="bg" src="../assets/images/Blue-abstract-background.jpg" alt="" />
           <div id="mainPanel">
             <Header/>
             <PathView/>
@@ -20,7 +18,6 @@ function App() {
             <Footer/>
           </div>
         </div>
-      </div>
     </>
   );
 }

@@ -1,0 +1,48 @@
+const filesList = [
+    {
+        type:"FOLDER",
+        name:"../",
+    },
+    {
+        type:"MP3",
+        name:"Track01",
+    },
+    {
+        type:"MP3",
+        name:"Track02",
+    },
+    {
+        type:"MP3",
+        name:"Track03",
+    },
+    {
+        type:"MP3",
+        name:"Track04",
+    },
+    {
+        type:"MP3",
+        name:"Track05",
+    },
+    {
+        type:"MP3",
+        name:"Track06",
+    },
+    {
+        type:"MP3",
+        name:"Track07",
+    },
+    {
+        type:"MP3",
+        name:"Track08",
+    },
+    {
+        type:"MP3",
+        name:"Track09",
+    },
+    {
+        type:"MP3",
+        name:"Track10",
+    },
+];
+
+export default filesList;

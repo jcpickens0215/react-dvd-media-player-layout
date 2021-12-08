@@ -1,0 +1,60 @@
+{
+  "short_name": "React App",
+  "name": "DVD Media Player Layout",
+  "icons": [
+    {
+      "src": "./assets/images/icons/MT1389 Closed tray.png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 folder.png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 HDD icon.png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 Loading 0.png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 Loading 1.png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 MP3 (Blue).png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 MP3.png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 SACD (Blue).png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 SACD.png",
+      "sizes": "40x30",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/images/icons/MT1389 Tray open.png",
+      "sizes": "40x30",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#0000ff"
+}

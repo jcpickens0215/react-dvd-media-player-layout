@@ -9,7 +9,7 @@ function App() {
     <>
       <div id="container">
         <div id="template">
-          <img id="bg" src="../assets/images/Template.jpg" alt="" />
+          <img id="bg" src="../assets/images/Blue-abstract-background.jpg" alt="" />
           <div id="mainPanel">
             <Header/>
             <PathView/>
